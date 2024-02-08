@@ -1,0 +1,5 @@
+/Users/zekariya/Documents/Csharp Kurz /LectureEcriture/obj/Debug/net8.0/LectureEcriture.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zekariya/Documents/Csharp Kurz /LectureEcriture/obj/Debug/net8.0/LectureEcriture.AssemblyInfoInputs.cache
+/Users/zekariya/Documents/Csharp Kurz /LectureEcriture/obj/Debug/net8.0/LectureEcriture.AssemblyInfo.cs
+/Users/zekariya/Documents/Csharp Kurz /LectureEcriture/obj/Debug/net8.0/LectureEcriture.csproj.CoreCompileInputs.cache
+/Users/zekariya/Documents/Csharp Kurz /LectureEcriture/obj/Debug/net8.0/LectureEcriture.sourcelink.json

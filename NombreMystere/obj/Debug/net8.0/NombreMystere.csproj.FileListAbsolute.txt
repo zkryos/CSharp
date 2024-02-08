@@ -1,0 +1,15 @@
+/Users/zekariya/Documents/Csharp Kurz /NombreMystere/obj/Debug/net8.0/NombreMystere.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zekariya/Documents/Csharp Kurz /NombreMystere/obj/Debug/net8.0/NombreMystere.AssemblyInfoInputs.cache
+/Users/zekariya/Documents/Csharp Kurz /NombreMystere/obj/Debug/net8.0/NombreMystere.AssemblyInfo.cs
+/Users/zekariya/Documents/Csharp Kurz /NombreMystere/obj/Debug/net8.0/NombreMystere.csproj.CoreCompileInputs.cache
+/Users/zekariya/Documents/Csharp Kurz /NombreMystere/obj/Debug/net8.0/NombreMystere.sourcelink.json
+/Users/zekariya/Documents/Csharp Kurz /NombreMystere/bin/Debug/net8.0/NombreMystere
+/Users/zekariya/Documents/Csharp Kurz /NombreMystere/bin/Debug/net8.0/NombreMystere.deps.json
+/Users/zekariya/Documents/Csharp Kurz /NombreMystere/bin/Debug/net8.0/NombreMystere.runtimeconfig.json
+/Users/zekariya/Documents/Csharp Kurz /NombreMystere/bin/Debug/net8.0/NombreMystere.dll
+/Users/zekariya/Documents/Csharp Kurz /NombreMystere/bin/Debug/net8.0/NombreMystere.pdb
+/Users/zekariya/Documents/Csharp Kurz /NombreMystere/obj/Debug/net8.0/NombreMystere.dll
+/Users/zekariya/Documents/Csharp Kurz /NombreMystere/obj/Debug/net8.0/refint/NombreMystere.dll
+/Users/zekariya/Documents/Csharp Kurz /NombreMystere/obj/Debug/net8.0/NombreMystere.pdb
+/Users/zekariya/Documents/Csharp Kurz /NombreMystere/obj/Debug/net8.0/NombreMystere.genruntimeconfig.cache
+/Users/zekariya/Documents/Csharp Kurz /NombreMystere/obj/Debug/net8.0/ref/NombreMystere.dll

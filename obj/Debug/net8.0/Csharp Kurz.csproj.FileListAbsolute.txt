@@ -1,0 +1,5 @@
+/Users/zekariya/Documents/Csharp Kurz /obj/Debug/net8.0/Csharp Kurz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zekariya/Documents/Csharp Kurz /obj/Debug/net8.0/Csharp Kurz.AssemblyInfoInputs.cache
+/Users/zekariya/Documents/Csharp Kurz /obj/Debug/net8.0/Csharp Kurz.AssemblyInfo.cs
+/Users/zekariya/Documents/Csharp Kurz /obj/Debug/net8.0/Csharp Kurz.csproj.CoreCompileInputs.cache
+/Users/zekariya/Documents/Csharp Kurz /obj/Debug/net8.0/Csharp Kurz.sourcelink.json
